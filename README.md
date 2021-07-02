@@ -29,6 +29,7 @@ responseData [
 
 ## Banner
 - endpoint: http://127.0.0.1:8081/request/banner
+- method: GET
 - response:
 ```
 responseCode [200,400,404]
